@@ -54,11 +54,11 @@ git config --global user.email "ваш_email@на GitHub"
 ##### 7. Делаем чекаут нашего HTML Framework
  - Создаём папку html-framework
  - Правой кнопкой - Git Clone
- - URL: https://github.com/ideus-interactive/html-framework.git
+ - URL: https://github.com/ideus-team/html-framework.git
  - Load Putty Key
 
 ##### 8. Всё готово!
-Уже настроенный для работы фреймворк лежит у нас на Github: https://github.com/ideus-interactive/html-framework.
+Уже настроенный для работы фреймворк лежит у нас на Github: https://github.com/ideus-team/html-framework.
 
 Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` - он запускает Grunt вместе с SASS, Compass и всем-всем необходимым.
 Также следует добавить в исключения для системы контроля версий следующие пути:
