@@ -12,18 +12,10 @@
 gem install sass
 gem install compass
 ```
-Раз в неделю его стоит обновлять:
-```
-gem update --system & gem update sass & gem update compass
-```
 
 ##### 4. Ставим Grunt
 ```
 npm install grunt-cli -g
-```
-Раз в неделю его стоит обновлять:
-```
-npm update grunt-cli -g
 ```
 
 ##### 5. Ставим Git
@@ -60,7 +52,7 @@ git config --global user.email "ваш_email@на GitHub"
 ##### 8. Всё готово!
 Уже настроенный для работы фреймворк лежит у нас на Github: https://github.com/ideus-team/html-framework.
 
-Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` - он запускает Grunt вместе с SASS, Compass и всем-всем необходимым.
+Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` - он запускает Grunt вместе с SASS, Compass и всем необходимым, а также проверяет необходимость их обновления.
 Также следует добавить в исключения для системы контроля версий следующие пути:
  - `dev/node_modules`
  - `dev/.sass-cache`
