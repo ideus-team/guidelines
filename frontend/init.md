@@ -1,5 +1,5 @@
 #Установка окружения под Windows
-##SASS,Compass,Grunt,Git и т.д.
+##SASS, Compass, Grunt, Git и т.д.
 
 ##### 1. Ставим [Node.js](http://nodejs.org/download/)
 Версия x64, нужен для Grunt.
