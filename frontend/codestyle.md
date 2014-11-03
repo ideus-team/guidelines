@@ -7,7 +7,7 @@ This document borrows ideas from:
  * [CSSComb](http://csscomb.com)
  * [BEM](http://bem.info)
 
-Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in <ul>, <ol>, or <dl>. Never use a set of <div> or <p>".
+Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`. Never use a set of `<div>` or `<p>`".
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Use valid HTML where possible", "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks. Include one space after ":" in each property. Use a semicolon after every declaration. Include one space befor every new declaration.") что понятны из примера кода.
 
 
