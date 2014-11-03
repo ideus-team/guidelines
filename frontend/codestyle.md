@@ -1,8 +1,7 @@
 This document outlines the way @iDeus_team is expected to write their HTML markup. Following this document ensures that everyone is writing markup is doing so with good practices and accessibility in mind.
 This document borrows ideas from:
 
-https://github.com/mobify/mobify-code-style/tree/master/html
-
+ * https://github.com/mobify/mobify-code-style/tree/master/html
  * [Google's HTML Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
  * [SMACSS](http://smacss.com/book/formatting)
  * [CSSComb](http://csscomb.com)
