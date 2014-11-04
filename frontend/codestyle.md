@@ -65,7 +65,7 @@ This document borrows ideas from:
 }
 ```
 1. NO TABS
-2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) declaration order
+2. [Multiple lines](http://smacss.com/book/formatting), groped by [zen-coding](http://code.google.com/p/zen-coding/wiki/ZenCSSPropertiesRu) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 
