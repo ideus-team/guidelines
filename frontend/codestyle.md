@@ -6,7 +6,7 @@ This document borrows ideas from:
 Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`".
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
 
-##HTML:
+##HTML
 ```
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
@@ -15,7 +15,7 @@ This document borrows ideas from:
   </p>
 </div>
 ```
-###1. Formatting Rules:
+###1. Formatting Rules
 1. NO TABS, 2 space indent
 2. lowercase
 3. Double quotes
@@ -45,7 +45,7 @@ This document borrows ideas from:
 Тестовые файлы должны иметь префикс test-номерТикета-.
 Например test-2567-script.js
 
-##CSS:
+##CSS
 ```
 /**
 * @section Some Block
@@ -68,6 +68,11 @@ This document borrows ideas from:
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [zen-coding](http://code.google.com/p/zen-coding/wiki/ZenCSSPropertiesRu) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
+
+##JS
+1. NO TABS, 2 space indent
+2. camelCase
+3. [JSDoc](http://usejsdoc.org/) for comment blocks.
 
 PS.
 Be consistent.
