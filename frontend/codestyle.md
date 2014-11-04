@@ -70,6 +70,16 @@ This document borrows ideas from:
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 
 ##JS
+```
+/**
+ * This is a description of the someFunction function
+ * @function someFunction
+ * @requires momentjs {@link https://github.com/moment/moment/}
+*/
+function someFunction() {
+  return 1;
+}
+```
 1. NO TABS, 2 space indent
 2. camelCase
 3. [JSDoc](http://usejsdoc.org/) for comment blocks.
