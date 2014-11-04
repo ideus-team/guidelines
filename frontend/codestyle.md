@@ -51,10 +51,10 @@ This document borrows ideas from:
 * @section Some Block
 */
 .b-someBlock {
-  width: 100px; 
-  height: 200px;
   margin: 10px; 
   padding: 20px 30px;
+  width: 100px; 
+  height: 200px;  
   
   opacity: .5;
   bacground-color: #f00;
@@ -65,7 +65,7 @@ This document borrows ideas from:
 }
 ```
 1. NO TABS
-2. [Multiple lines](http://smacss.com/book/formatting), groped by [zen-coding](http://code.google.com/p/zen-coding/wiki/ZenCSSPropertiesRu) declaration order
+2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 
