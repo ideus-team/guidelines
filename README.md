@@ -12,7 +12,7 @@
 
 ###Руководства
 * [Codestyle](https://github.com/ideus-team/guidelines/blob/master/frontend/codestyle.md)
-* BEM-диалект - скоро
+* [BEM-диалект](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
 
 ###Чеклисты
 * [Чеклист верстки](https://github.com/delka/html5checklist)
