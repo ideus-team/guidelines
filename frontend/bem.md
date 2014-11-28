@@ -1,6 +1,6 @@
 #BEM-диалект iDeus
 
-Мы используем BEM CSS — т.е. BEM-методологию только применительно к CSS: беp i-bem.js, bemjson, bem-tools — вот этого вот всего.  
+Мы используем BEM CSS — т.е. BEM-методологию только применительно к CSS: без i-bem.js, bemjson, bem-tools — вот этого вот всего.  
 Согласно [классификации Харисова](http://download.yandex.ru/company/experience/subbotnik/minsk_harisov.pdf) (страница 83) у нас схема:
 * Блоки в одном файле
 * + Префиксы
