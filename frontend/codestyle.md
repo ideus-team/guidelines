@@ -11,7 +11,7 @@ This document borrows ideas from:
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
     Some text.
-    <img class="b-someBlock__cover" src="//site-name.com/img/b-someBlock__cover-ill.jpg" alt="some description" />
+    <img class="b-someBlock__cover" src="//site-name.com/img/someBlock__cover-ill.jpg" alt="some description" />
   </p>
 </div>
 ```
@@ -30,7 +30,7 @@ This document borrows ideas from:
 Название должно быть на английском (а не translitom), отражать смысл страницы и красиво выглядеть. Думайте головой чтоб не создавать страницы типа econom_landing_30.html.
 
 ####Картинки
-Называются согласно имени блока. Рекомендуется добавлять суффиксы: -bg, -btn и т.д., а для временных заглушек префикс temp-. Например: b-socialLinks-ico.png
+Называются согласно имени блока. Рекомендуется добавлять суффиксы: -bg, -btn и т.д., а для временных заглушек префикс temp-. Например: socialLinks-ico.png
 Суффикс в конце, чтоб легче было выделять блоки картинок и копировать на другие проекты.
  * bg    : background т.е. для фоновых изображений и фонов
  * btn   : button, кнопки
@@ -60,7 +60,7 @@ This document borrows ideas from:
   bacground-color: #f00;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
-    url('../img/b-someBlock.png');
+    url('../img/someBlock.png');
   background-size: cover;
 }
 ```
