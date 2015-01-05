@@ -26,28 +26,17 @@ npm install grunt-cli -g
 
 ###### 5.2 Ставим [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download)
 Версия x64.
+Пуск→Tortoise Git→Settings: 
+TortoiseGit→Settings→Git→Credential 
+Credential helper→wincred
 
 ##### 6. Настройка GitHub
-Регистрируемся на [GitHub](https://github.com/) если не зарегены.
-```
-git config --global user.name "Ваше имя на GitHub"
-git config --global user.email "ваш_email@на GitHub"
-```
-Генерируем ключи:
-```
-"c:\Program Files (x86)\Git\bin\ssh-keygen.exe" -t rsa -C "ваш_email@на GitHub"
-```
- - Enter file in which to save the key (//.ssh/id_rsa) - напишите что-то вроде "ваше-имя-на-github"
- - Enter passphrase (empty for no passphrase) - ничего не вводите, просто Enter
-
-После этого Вы получите два файла с ключами в папке %userprofile%
-[На GitHub в поле SSH Public Key](https://github.com/settings/ssh) вставляем содержимое файла ваше-имя-на-github.pub, или как вы его там назвали при создании ключей. Поле Title оставляете пустым, заполняете только Key.
+Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
 
 ##### 7. Делаем чекаут нашего HTML Framework
  - Создаём папку html-framework
  - Правой кнопкой - Git Clone
  - URL: https://github.com/ideus-team/html-framework.git
- - Load Putty Key
 
 ##### 8. Всё готово!
 Уже настроенный для работы фреймворк лежит у нас на Github: https://github.com/ideus-team/html-framework.
