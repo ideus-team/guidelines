@@ -2,7 +2,7 @@
 ##Frontend
 
 ###Настройки
-* [Установка окружения под Windows] (https://github.com/ideus-team/guidelines/blob/master/frontend/init.md)
+* [Установка окружения под Windows](https://github.com/ideus-team/guidelines/blob/master/frontend/init.md)
 * [Настройки окружения](https://github.com/ideus-team/guidelines/blob/master/frontend/settings.md)
 
 ###Инструменты
@@ -16,4 +16,5 @@
 
 ###Чеклисты
 * [Чеклист верстки](https://github.com/delka/html5checklist)
-* [Чек-лист оптимизации скорости загрузки сайта](https://github.com/delka/WebPerformanceChecklist)
+* [Чек-лист оптимизации скорости загрузки](https://github.com/delka/WebPerformanceChecklist)
+* [Чек-лист доступности](http://webstandardsdays.ru/2014/12/06/pres/web-a11y/?full#33)
