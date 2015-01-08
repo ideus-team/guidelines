@@ -2,6 +2,7 @@ This document outlines the way @iDeus_team is expected to write their HTML marku
 This document borrows ideas from:
  * [Google's HTML Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
  * [SMACSS](http://smacss.com/book/formatting)
+ * [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 
 Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`".
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
