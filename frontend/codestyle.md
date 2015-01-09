@@ -50,6 +50,7 @@ This document borrows ideas from:
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
+5. Переменные нужно определять в пределах каждого блока (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
 
 ##JS
 ```
