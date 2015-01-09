@@ -13,6 +13,7 @@
 ###Руководства
 * [Codestyle](https://github.com/ideus-team/guidelines/blob/master/frontend/codestyle.md)
 * [BEM-диалект](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
+* [Naming conventions](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md)
 
 ###Чеклисты
 * [Чеклист верстки](https://github.com/delka/html5checklist)

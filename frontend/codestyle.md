@@ -22,28 +22,9 @@ This document borrows ideas from:
 4. New line for everything
 5. Omit the protocol from embedded resources.
  
-###2. Naming
-Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md).
+###2. Naming Conversions
+Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании блоков и файлов](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md).
 
-####Страницы
-маленькие-буквы-через-тире.html
-Название должно быть на английском (а не translitom), отражать смысл страницы и красиво выглядеть. Думайте головой чтоб не создавать страницы типа econom_landing_30.html.
-
-####Картинки
-Называются согласно имени блока без префикса. Рекомендуется добавлять суффиксы: -bg, -btn и т.д., а для временных заглушек префикс temp-. Например: socialLinks-ico.png
-Суффикс в конце, чтоб легче было выделять блоки картинок и копировать на другие проекты.
- * bg    : background т.е. для фоновых изображений и фонов
- * btn   : button, кнопки
- * ill   : illustartion - для картинок-иллюстраций
- * photo : для фотографий
- * bull  : bullets - для "буллетов", пиктограмм элементов списка
- * logo  : для логотипов
- * ico   : icons - для иконок
- * text  : для текстовых надписей, сохранённых как картинки
- 
-####Тестовые ресурсы
-Тестовые файлы должны иметь префикс test-номерТикета-.
-Например test-2567-script.js
 
 ##CSS
 ```
