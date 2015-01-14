@@ -28,7 +28,7 @@ This document borrows ideas from:
 
 
 ##CSS
-```scss
+```css
 /**
 * @section Some Block
 */
