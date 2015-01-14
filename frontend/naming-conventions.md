@@ -31,11 +31,11 @@ JS для отдельных l-блоков и js-блоков выноситс�
  
 ## Стандартные имена классов
 ```scss
-.block__list {}
-.block__item {}
+.b-block__list {}
+.b-block__item {}
 ```
  
 ```scss
-.block__ill {}
-.block__image {}
+.b-block__ill {}
+.b-block__image {}
 ```
