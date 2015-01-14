@@ -8,7 +8,7 @@ This document borrows ideas from:
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
 
 ##HTML
-```
+```html
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
     Some text.
@@ -24,11 +24,11 @@ This document borrows ideas from:
 5. Omit the protocol from embedded resources.
  
 ###2. Naming Conversions
-Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании блоков и файлов](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md).
+Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
 
 
 ##CSS
-```
+```css
 /**
 * @section Some Block
 */
@@ -39,21 +39,21 @@ This document borrows ideas from:
   height: 200px;  
   
   opacity: .5;
-  bacground-color: #f00;
+  background-color: #f00;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
-    url('../img/someBlock.png');
+    url('../img/blocks/someBlock/someBlock-bg.png');
   background-size: cover;
 }
 ```
-1. [NO TABS](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
+1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 5. Переменные нужно определять в пределах каждого блока (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
 
 ##JS
-```
+```js
 /**
  * This is a description of the someFunction function
  * @function someFunction
@@ -63,9 +63,9 @@ function someFunction() {
   return 1;
 }
 ```
-1. NO TABS, 2 space indent
+1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. camelCase
 3. [JSDoc](http://usejsdoc.org/) for comment blocks.
 
-PS.
+P.S.
 Be consistent.
