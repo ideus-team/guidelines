@@ -39,7 +39,7 @@ This document borrows ideas from:
   height: 200px;  
   
   opacity: .5;
-  bacground-color: #f00;
+  background-color: #f00;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
     url('../img/blocks/someBlock/someBlock-bg.png');
