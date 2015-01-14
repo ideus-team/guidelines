@@ -8,7 +8,7 @@ This document borrows ideas from:
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
 
 ##HTML
-```
+```html
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
     Some text.
@@ -28,7 +28,7 @@ This document borrows ideas from:
 
 
 ##CSS
-```
+```scss
 /**
 * @section Some Block
 */
@@ -53,7 +53,7 @@ This document borrows ideas from:
 5. Переменные нужно определять в пределах каждого блока (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
 
 ##JS
-```
+```js
 /**
  * This is a description of the someFunction function
  * @function someFunction
@@ -67,5 +67,5 @@ function someFunction() {
 2. camelCase
 3. [JSDoc](http://usejsdoc.org/) for comment blocks.
 
-PS.
+P.S.
 Be consistent.
