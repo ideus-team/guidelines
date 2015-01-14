@@ -24,7 +24,7 @@ This document borrows ideas from:
 5. Omit the protocol from embedded resources.
  
 ###2. Naming Conversions
-Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании блоков и файлов](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md).
+Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
 
 
 ##CSS
@@ -42,7 +42,7 @@ This document borrows ideas from:
   bacground-color: #f00;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
-    url('../img/someBlock.png');
+    url('../img/blocks/someBlock/someBlock-bg.png');
   background-size: cover;
 }
 ```
