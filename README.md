@@ -6,8 +6,8 @@
 * [Настройки окружения](https://github.com/ideus-team/guidelines/blob/master/frontend/settings.md)
 
 ###Инструменты
-* [HTML framework](https://github.com/ideus-interactive/html-framework)
-* [Библиотека блоков](https://github.com/ideus-interactive/bem-snippets)
+* [HTML framework](https://github.com/ideus-team/html-framework)
+* [Библиотека блоков](https://github.com/ideus-team/bem-snippets)
 * [Стандартные js-плагины](https://github.com/ideus-team/guidelines/blob/master/frontend/js-plugins.md)
 
 ###Руководства
