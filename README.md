@@ -10,6 +10,7 @@
 * [Библиотека блоков](https://github.com/ideus-team/bem-snippets)
 * [Стандартные js-плагины](https://github.com/ideus-team/guidelines/blob/master/frontend/js-plugins.md)
 * [Заготовки и лайфхаки для Wordpress](https://github.com/ideus-team/wordpress)
+* [Сторонние сервисы](https://github.com/ideus-team/frontend/links.md)
 
 ###Руководства
 * [Codestyle](https://github.com/ideus-team/guidelines/blob/master/frontend/codestyle.md)
