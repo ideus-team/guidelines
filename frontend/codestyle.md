@@ -24,7 +24,7 @@ This document borrows ideas from:
 5. Omit the protocol from embedded resources.
  
 ###2. Naming Conversions
-Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md) и [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
+Мы используем [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
 
 
 ##CSS
@@ -33,24 +33,49 @@ This document borrows ideas from:
 * @section Some Block
 */
 .b-someBlock {
+  $someBlockColor: #f00;
+ 
   margin: 10px; 
   padding: 20px 30px;
-  width: 100px; 
-  height: 200px;  
+  width: (100px - 30*2); 
+  height: (200px - 20px*2);  
   
   opacity: .5;
-  background-color: #f00;
+  background-color: $someBlockColor;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
     url('../img/blocks/someBlock/someBlock-bg.png');
   background-size: cover;
+
+  %i-someBlock-mod_val { 
+    /* Some abstract block */
+  }   
+  %i-someBlock__someElement { 
+    /* Some abstract element */
+  }
+ 
+  &__someElement { 
+    @extend %i-someBlock__someElement;    
+    transform: scale(.8);
+    
+    @media screen and (max-width: 800px) {
+      transform: scale(.6);
+    }      
+  }
 }
 ```
+###1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 5. Переменные нужно определять в пределах каждого блока (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
+6. Для значений, что зависят от других, необходимо использовать формулы и/или переменные.
+7. Максимально используются возможности Sass, особенно в связке с BEM (`&__el`, `@extend %abstractBlock`).
+8. Используется Автопрефиксер, поэтому префиксы у CSS писать не нужно.
+
+###2. Naming Conversions
+Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
 
 ##JS
 ```js
