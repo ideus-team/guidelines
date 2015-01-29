@@ -17,7 +17,7 @@
  * b - блок
  * l - layout (блок использующийся для раскладки)
  * i - абстрактный блок (используем Sass @extend)
- * g - глобальный модификатор (например g-clearfix)
+ * g - глобальный модификатор (например g-tel)
  * js - для jQuery-хуков
 4. Сокращенные модификаторы через multiple classes `class="blockName__elName -mod_val"`
 5. Синтаксис вида: `.blockName__elName.-mod_val {}`
