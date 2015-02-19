@@ -33,7 +33,7 @@ This document borrows ideas from:
 * @section Some Block
 */
 .b-someBlock {
-  $someBlockColor: #f00;
+  $someBlock-color: #f00;
  
   margin: 10px; 
   padding: 20px 30px;
@@ -41,7 +41,7 @@ This document borrows ideas from:
   height: (200px - 20px*2);  
   
   opacity: .5;
-  background-color: $someBlockColor;
+  background-color: $someBlock-color;
   background-image: 
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
     url('../img/blocks/someBlock/someBlock-bg.png');
