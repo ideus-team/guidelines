@@ -6,7 +6,7 @@ SASS, Compass, Grunt, Git и т.д.
 
 
 ## 2. Ставим [Ruby](http://rubyinstaller.org/downloads/)
-Версия x64, отмечаем Add Ruby executables to your PATH, нужен для SASS.
+Версия x64, отмечаем _"Add Ruby executables to your PATH"_, нужен для SASS.
 
 
 ## 3. Ставим SASS и Compass
