@@ -25,6 +25,7 @@ npm install grunt-cli -g
 ### 5.1 Ставим [msysgit](http://msysgit.github.io/):
  - Далее→Далее
  - Ajusting your PATH environtment - выбрать "Run from the Windows command prompt"
+ - Configuring the line endings conversions - выбрать "Checkout as-is, commit as-is"
  - и снова Далее→Далее.
 
 
