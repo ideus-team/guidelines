@@ -10,7 +10,7 @@
 Карусель | [cycle2](https://github.com/malsup/cycle2) + [Carousel plugin](http://jquery.malsup.com/cycle2/download/)
 Стилизация элементов html-форм | [jQuery Form Styler](https://github.com/Dimox/jQueryFormStyler)
 Кастомный select | [select2](https://github.com/ivaynberg/select2)
-hashchange | [history.js](https://github.com/browserstate/history.js/blob/master/scripts/bundled/html4%2Bhtml5/jquery.history.js)
+HTML5 History (hashchange) | [history.js](https://github.com/browserstate/history.js/blob/master/scripts/bundled/html4%2Bhtml5/jquery.history.js)
 Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 GET URL Parameter | [getparam.js](https://gist.github.com/varemenos/2531765)
 Ползунок | [jQuery UI Slider](http://jqueryui.com/slider/)
