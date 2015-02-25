@@ -19,7 +19,8 @@
  * i - абстрактный блок (используем Sass @extend)
  * g - глобальный модификатор (например g-tel)
  * js - для jQuery-хуков
-4. Сокращенные модификаторы через multiple classes `class="blockName__elName -mod_val"`
+4. Сокращенные модификаторы через multiple classes `class="blockName__elName -mod_val"`. 
+Стили модификаторов не пишутся без привязки к имени блока `.block_mod_val {} = .block.-mod_val {}`
 5. Синтаксис вида: `.blockName__elName.-mod_val {}`
 
 ##Техпроцесс
