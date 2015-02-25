@@ -1,4 +1,10 @@
 #guidelines
+
+##Design
+
+###Руководства
+* [Naming conventions](https://github.com/ideus-team/guidelines/blob/master/design/naming-conventions.md)
+
 ##Frontend
 
 ###Настройки
