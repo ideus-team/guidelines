@@ -1,4 +1,4 @@
-#guidelines
+#Guidelines
 
 ##Design
 
