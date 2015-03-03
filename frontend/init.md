@@ -10,6 +10,7 @@ SASS, Compass, Grunt, Git и т.д.
 
 
 ## 3. Ставим SASS и Compass
+1) Если выдает ошибку SSL сертификата - установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#installing-using-update-packages-new).
 ```
 gem install sass
 gem install compass
