@@ -12,7 +12,7 @@ This document borrows ideas from:
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
     Some text.
-    <img class="b-someBlock__cover" src="//site-name.com/img/someBlock__cover-ill.jpg" alt="some description" />
+    <img class="b-someBlock__cover js-someBlockCover" src="//site-name.com/img/someBlock__cover-ill.jpg" alt="some description" />
   </p>
 </div>
 ```
@@ -28,7 +28,7 @@ This document borrows ideas from:
 
 
 ##CSS
-```css
+```scss
 /**
 * @section Some Block
 */
@@ -88,9 +88,12 @@ function someFunction() {
   return 1;
 }
 ```
+###1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
-2. camelCase
-3. [JSDoc](http://usejsdoc.org/) for comment blocks.
+2. [JSDoc](http://usejsdoc.org/) for comment blocks.
+
+###2. Naming Conversions
+We use camelCase.
 
 P.S.
 Be consistent.
