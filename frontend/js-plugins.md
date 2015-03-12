@@ -14,3 +14,4 @@ HTML5 History (hashchange) | [history.js](https://github.com/browserstate/histor
 Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 GET URL Parameter | [getparam.js](https://gist.github.com/varemenos/2531765)
 Ползунок | [jQuery UI Slider](http://jqueryui.com/slider/)
+Тултипы  | [Tooltipster](http://iamceege.github.io/tooltipster/)
