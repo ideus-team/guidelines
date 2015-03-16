@@ -11,3 +11,5 @@
   * [HTML](http://www.freeformatter.com/html-formatter.html)
 - Convert
   * [SWF 2 SVG](http://riaxe.com/online-swf-to-svg-converter/)
+- Spinners
+  * [1](http://tobiasahlin.com/spinkit/),[2](http://projects.lukehaas.me/css-loaders/)
