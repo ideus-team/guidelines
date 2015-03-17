@@ -7,7 +7,7 @@
 Лайтбокс | [fancyBox2](https://github.com/fancyapps/fancyBox)
 Кастомный лайтбокс (стилизация Fancybox) | [customFancybox.js](https://gist.github.com/delka/34085666749ed480b27a)
 Слайдшоу со swipe | [cycle2](https://github.com/malsup/cycle2) + [swipe plugin](http://jquery.malsup.com/cycle2/download/)
-Карусель | [cycle2](https://github.com/malsup/cycle2) + [Carousel plugin](http://jquery.malsup.com/cycle2/download/)
+Карусель | [cycle2](https://github.com/malsup/cycle2) + [carousel plugin](http://jquery.malsup.com/cycle2/download/)
 Стилизация элементов html-форм | [jQuery Form Styler](https://github.com/Dimox/jQueryFormStyler)
 Кастомный select | [select2](https://github.com/ivaynberg/select2)
 HTML5 History (hashchange) | [history.js](https://github.com/browserstate/history.js/blob/master/scripts/bundled/html4%2Bhtml5/jquery.history.js)
