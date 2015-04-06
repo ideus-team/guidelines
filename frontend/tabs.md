@@ -3,6 +3,7 @@
 Все эти компании и проекты строго запрещают использование табов и требуют использование пробелов. 
  
 ##Frontend: 
+ - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#whitespace)
  - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/#syntax-and-formatting)
  - [Github CSS](https://github.com/styleguide/css)
  - [Github JS](https://github.com/styleguide/javascript)
