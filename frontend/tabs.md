@@ -1,17 +1,17 @@
-#Почему отступы в коде должны быть "space, no tabs" 
+#Почему отступы в коде должны быть "space, no tabs"
 
-Все эти компании и проекты строго запрещают использование табов и требуют использование пробелов. 
- 
-##Frontend: 
+Все эти компании и проекты строго запрещают использование табов и требуют использование пробелов.
+
+##Frontend:
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#whitespace)
  - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/#syntax-and-formatting)
  - [Github CSS](https://github.com/styleguide/css)
  - [Github JS](https://github.com/styleguide/javascript)
  - [Google HTML Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
- - [SMACSS](http://smacss.com/book/formatting) 
+ - [SMACSS](http://smacss.com/book/formatting)
  - [Yandex JavaScript CodeStyle](https://github.com/yandex/codestyle/blob/master/javascript.ru.md)
- 
-##Backend: 
+
+##Backend:
  - [Drupal](http://drupal.org/coding-standards)
  - [Microsoft](http://blogs.msdn.com/b/brada/archive/2005/01/26/361363.aspx)
  - [Mozilla](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
@@ -23,11 +23,11 @@
  - [RSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
  - [Symfony](http://symfony.com/doc/2.0/contributing/code/standards.html)
  - [ZEND](http://framework.zend.com/manual/1.12/en/coding-standard.php-file-formatting.html)
- 
- 
-###Аргументация из кодстайлов: 
->RSR-2: Using only spaces, and not mixing spaces with tabs, helps to avoid problems with diffs, patches, history, and annotations. The use of spaces also makes it easy to insert fine-grained sub-indentation for inter-line alignment. 
 
->PEAR: This helps to avoid problems with diffs, patches, SVN history and annotations. 
- 
-Тулзы также юзают пробелы - например форматтеры/бьютифайеры кода переводят всё в пробелы! 
+
+###Аргументация из кодстайлов:
+>RSR-2: Using only spaces, and not mixing spaces with tabs, helps to avoid problems with diffs, patches, history, and annotations. The use of spaces also makes it easy to insert fine-grained sub-indentation for inter-line alignment.
+
+>PEAR: This helps to avoid problems with diffs, patches, SVN history and annotations.
+
+Тулзы также юзают пробелы - например форматтеры/бьютифайеры кода переводят всё в пробелы!

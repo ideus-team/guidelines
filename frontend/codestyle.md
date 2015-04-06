@@ -22,7 +22,7 @@ This document borrows ideas from:
 3. Double quotes
 4. New line for everything
 5. Omit the protocol from embedded resources.
- 
+
 ###2. Naming Conversions
 Мы используем [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
 
@@ -34,33 +34,33 @@ This document borrows ideas from:
 */
 .b-someBlock {
   $someBlock-color: #f00;
- 
-  margin: 10px; 
+
+  margin: 10px;
   padding: 20px 30px;
-  width: (100px - 30*2); 
-  height: (200px - 20px*2);  
-  
+  width: (100px - 30*2);
+  height: (200px - 20px*2);
+
   opacity: .5;
   background-color: $someBlock-color;
-  background-image: 
+  background-image:
     linear-gradient(to bottom right, #f00, rgba(0,0,0,.1)),
     url('../img/blocks/someBlock/someBlock-bg.png');
   background-size: cover;
 
-  %i-someBlock-mod_val { 
+  %i-someBlock-mod_val {
     /* Some abstract block */
-  }   
-  %i-someBlock__someElement { 
+  }
+  %i-someBlock__someElement {
     /* Some abstract element */
   }
- 
-  &__someElement { 
-    @extend %i-someBlock__someElement;    
+
+  &__someElement {
+    @extend %i-someBlock__someElement;
     transform: scale(.8);
-    
+
     @media screen and (max-width: 800px) {
       transform: scale(.6);
-    }      
+    }
   }
 }
 ```

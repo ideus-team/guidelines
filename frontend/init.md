@@ -33,8 +33,8 @@ npm install grunt-cli -g
 
 ### 5.2 Ставим [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download)
 Версия x64.
-Пуск→Tortoise Git→Settings: 
-TortoiseGit→Settings→Git→Credential 
+Пуск→Tortoise Git→Settings:
+TortoiseGit→Settings→Git→Credential
 Credential helper→wincred
 
 
