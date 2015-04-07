@@ -11,7 +11,7 @@ Ruby _2.1.X_ x64 installer, отмечаем _"Add Ruby executables to your PATH
 
 
 ## 3. Ставим SASS+Compass,Bourbon&Co
-1) Если выдает ошибку SSL сертификата - установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#step-1-obtain-the-new-trust-certificate).
+1) Если выдает ошибку SSL сертификата - установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#manual-solution-to-ssl-issue).
 ```
 gem install sass
 gem install compass
