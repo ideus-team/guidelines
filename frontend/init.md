@@ -45,14 +45,20 @@ Credential helper→wincred
 Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
 
 
-## 7. [Настройки софта](https://github.com/ideus-team/guidelines/blob/master/frontend/settings.md)
+## 7. Ставим Photoshop с плагинами
+ - Photoshop CC x64 v15
+ - CSS Hat 2
+ - PNG Hat
 
 
-## 8. Делаем чекаут нашего HTML Framework
+## 8. [Настройки софта](https://github.com/ideus-team/guidelines/blob/master/frontend/settings.md)
+
+
+## 9. Делаем чекаут нашего HTML Framework
  - Создаём папку html-framework
  - Правой кнопкой - Git Clone
  - URL: https://github.com/ideus-team/html-framework.git
 
 
-## 9. Всё готово!
+## 10. Всё готово!
 Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` - он запускает Grunt вместе с SASS, Compass и всем необходимым, а также проверяет необходимость их обновления.
