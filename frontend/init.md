@@ -3,7 +3,7 @@ SASS, Compass, Grunt, Git и т.д.
 Почти всё одинаково для Win/Mac/Linux.
 
 ## 1. Ставим [Node.js](http://nodejs.org/download/)
-Версия x64, нужен для Grunt.
+Windows Installer 64-bit, нужен для Grunt.
 
 
 ## 2. Ставим [Ruby](http://rubyinstaller.org/downloads/)
