@@ -10,11 +10,14 @@ Windows Installer 64-bit, нужен для Grunt.
 Версия x64, отмечаем _"Add Ruby executables to your PATH"_, нужен для SASS.
 
 
-## 3. Ставим SASS и Compass
+## 3. Ставим SASS+Compass,Bourbon&Co
 1) Если выдает ошибку SSL сертификата - установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#installing-using-update-packages-new).
 ```
 gem install sass
 gem install compass
+gem install bourbon
+gem install neat
+gem install bitters
 ```
 
 
