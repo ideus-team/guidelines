@@ -31,3 +31,7 @@
 >PEAR: This helps to avoid problems with diffs, patches, SVN history and annotations.
 
 Тулзы также юзают пробелы - например форматтеры/бьютифайеры кода переводят всё в пробелы!
+
+###Опросы:
+####[StackOverflow](http://stackoverflow.com/research/developer-survey-2015)
+> Developers increasingly prefer spaces as they gain experience. Stack Overflow reputation correlates with a preference for spaces, too: users who have 10,000 rep or more prefer spaces to tabs at a ratio of 3 to 1.
