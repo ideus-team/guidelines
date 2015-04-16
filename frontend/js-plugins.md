@@ -7,7 +7,7 @@
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
 Анимация css цветов | [jQuery Color](https://github.com/jquery/jquery-color)
 Аудио-видео плеер | [jPlayer](http://www.jplayer.org/)
-Детект видимости блока на экране | [isInViewport](https://github.com/zeusdeux/isInViewport/)
+Детект видимости блока на экране | [isInViewport](https://github.com/zeusdeux/isInViewport/) / ['in view' Event Plugin](https://remysharp.com/2009/01/26/element-in-view-event-plugin)
 Лайтбокс | [fancyBox2](https://github.com/fancyapps/fancyBox)
 Кастомный лайтбокс (стилизация Fancybox) | [customFancybox.js](https://gist.github.com/delka/34085666749ed480b27a)
 Кастомный select | [select2](https://github.com/ivaynberg/select2)
@@ -23,3 +23,4 @@
 GET URL Parameter | [getparam.js](https://gist.github.com/varemenos/2531765)
 HTML5 History (hashchange) | [history.js](https://github.com/browserstate/history.js/blob/master/scripts/bundled/html4%2Bhtml5/jquery.history.js)
 Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+Оповещение о потере соединения с интернетом | [Offline](https://github.com/hubspot/offline)
