@@ -5,6 +5,7 @@
 Функционал | Плагин
 --- | ---
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
+Анимация css цветов | [jQuery Color](https://github.com/jquery/jquery-color)
 Аудио-видео плеер | [jPlayer](http://www.jplayer.org/)
 Детект видимости блока на экране | [isInViewport](https://github.com/zeusdeux/isInViewport/)
 Лайтбокс | [fancyBox2](https://github.com/fancyapps/fancyBox)
