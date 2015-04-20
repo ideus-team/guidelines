@@ -1,5 +1,8 @@
 #Guidelines
 
+##Management
+* [Закрытие задач](https://github.com/ideus-team/guidelines/blob/master/management/closetasks.md)
+
 ##Design
 
 ###Руководства
