@@ -11,7 +11,7 @@ Ruby _2.1.X_ x64 installer, отмечаем _"Add Ruby executables to your PATH
 
 
 ## 3. Ставим SASS+Compass,Bourbon&Co
-1) Если выдает ошибку SSL сертификата - установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#manual-solution-to-ssl-issue).
+1) Если выдает ошибку SSL сертификата — установите сертификат пройдя [эти шаги](https://gist.github.com/luislavena/f064211759ee0f806c88#manual-solution-to-ssl-issue).
 ```
 gem install sass
 gem install compass
@@ -29,8 +29,8 @@ npm install grunt-cli -g
 ## 5. Ставим Git
 ### 5.1 Ставим [msysgit](http://msysgit.github.io/):
  - Далее→Далее
- - Ajusting your PATH environtment - выбрать "Run from the Windows command prompt"
- - Configuring the line endings conversions - выбрать "Checkout as-is, commit as-is"
+ - Ajusting your PATH environtment — выбрать "Run from the Windows command prompt"
+ - Configuring the line endings conversions — выбрать "Checkout as-is, commit as-is"
  - и снова Далее→Далее.
 
 
@@ -56,9 +56,9 @@ Credential helper→wincred
 
 ## 9. Делаем чекаут нашего HTML Framework
  - Создаём папку html-framework
- - Правой кнопкой - Git Clone
+ - Правой кнопкой — Git Clone
  - URL: https://github.com/ideus-team/html-framework.git
 
 
 ## 10. Всё готово!
-Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` - он запускает Grunt вместе с SASS, Compass и всем необходимым, а также проверяет необходимость их обновления.
+Для начала работы с каждым из проектов необходимо запустить файл `install.bat` в директории `dev` — он запускает Grunt вместе с SASS, Compass и всем необходимым, а также проверяет необходимость их обновления.

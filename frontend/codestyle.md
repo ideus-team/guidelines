@@ -37,8 +37,8 @@ This document borrows ideas from:
 
   margin: 10px;
   padding: 20px 30px;
-  width: (100px - 30*2);
-  height: (200px - 20px*2);
+  width: (100px - 30 * 2);
+  height: (200px - 20px * 2);
 
   opacity: .5;
   background-color: $someBlock-color;

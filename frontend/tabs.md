@@ -30,7 +30,7 @@
 
 >PEAR: This helps to avoid problems with diffs, patches, SVN history and annotations.
 
-Тулзы также юзают пробелы - например форматтеры/бьютифайеры кода переводят всё в пробелы!
+Тулзы также юзают пробелы — например форматтеры/бьютифайеры кода переводят всё в пробелы!
 
 ###Опросы:
 ####[StackOverflow](http://stackoverflow.com/research/developer-survey-2015)
