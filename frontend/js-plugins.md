@@ -4,6 +4,7 @@
 
 Функционал | Плагин
 --- | ---
+Collection of extremely useful DOM helpers and special events for jQuery | [jQuery++](http://jquerypp.com/)
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
 Анимация css цветов | [jQuery Color](https://github.com/jquery/jquery-color)
 Аудио-видео плеер | [jPlayer](http://www.jplayer.org/)
