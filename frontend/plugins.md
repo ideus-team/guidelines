@@ -1,10 +1,12 @@
-#Стандартные js-плагины
-Список js-плагинов, которые мы используем для стандартного функционала.
+#Стандартные плагины
+Список css/js-плагинов, которые мы используем для стандартного функционала.
 Необходимость использования других плагинов должно быть _очень_ аргументирована.
 
 Функционал | Плагин
 --- | ---
-Collection of extremely useful DOM helpers and special events for jQuery | [jQuery++](http://jquerypp.com/)
+DOM helpers+special events | [jQuery++](http://jquerypp.com/)
+Анимации CSS3 | [Animate.css](https://github.com/daneden/animate.css)<br>[magic](https://github.com/miniMAC/magic)
+Анимации CSS3+JS | [css3-animate-it.js](http://jackonthe.net/css3animateit/)
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
 Анимация css цветов | [jQuery Color](https://github.com/jquery/jquery-color)
 Аудио-видео плеер | [jPlayer](http://www.jplayer.org/)
@@ -15,6 +17,7 @@ Collection of extremely useful DOM helpers and special events for jQuery | [jQue
 Слайдшоу со swipe | [cycle2](https://github.com/malsup/cycle2) + [swipe plugin](http://jquery.malsup.com/cycle2/download/)
 Карусель | [cycle2](https://github.com/malsup/cycle2) + [carousel plugin](http://jquery.malsup.com/cycle2/download/)
 Операции со временем и таймзонами | [moment.js](http://momentjs.com/)
+Паралакс CSS3 | [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 Подгрузка и работа с SVG | [jQuery SVG](http://keith-wood.name/svg.html)
 Ползунок  | [noUiSlider](http://refreshless.com/nouislider/)
 Прелоадер | [jquery.html5loader](https://github.com/GianlucaGuarini/jquery.html5loader)

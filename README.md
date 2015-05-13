@@ -17,7 +17,7 @@
 ###Инструменты
 * [HTML framework](https://github.com/ideus-team/html-framework)
 * [Библиотека блоков](https://github.com/ideus-team/bem-snippets)
-* [Стандартные js-плагины](https://github.com/ideus-team/guidelines/blob/master/frontend/js-plugins.md)
+* [Стандартные плагины](https://github.com/ideus-team/guidelines/blob/master/frontend/plugins.md)
 * [Заготовки и лайфхаки для Wordpress](https://github.com/ideus-team/wordpress)
 * [Сторонние сервисы](https://github.com/ideus-team/guidelines/blob/master/frontend/links.md)
 
