@@ -6,7 +6,7 @@
 --- | ---
 DOM helpers+special events | [jQuery++](http://jquerypp.com/)
 Анимации CSS3 | [Animate.css](https://github.com/daneden/animate.css)<br>[magic](https://github.com/miniMAC/magic)
-Анимации CSS3+JS | [css3-animate-it.js](http://jackonthe.net/css3animateit/)
+Анимации CSS3 in viewport only + JS actions| [css3-animate-it.js](http://jackonthe.net/css3animateit/)
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
 Анимация css цветов | [jQuery Color](https://github.com/jquery/jquery-color)
 Аудио-видео плеер | [jPlayer](http://www.jplayer.org/)
