@@ -20,7 +20,6 @@
 - Code Generation
   * [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 - Screenshot Generators
-  * Mobile
-    - https://launchkit.io/
-    - http://mockuphone.com/
-    - https://placeit.net/ (commercial!)
+  * https://launchkit.io/
+  * http://mockuphone.com/
+  * https://placeit.net/ (commercial!)
