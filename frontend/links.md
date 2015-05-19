@@ -9,6 +9,7 @@
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - Formatting
   * [HTML](http://www.freeformatter.com/html-formatter.html)
+  * [CSS](http://csscomb.com/online)
 - Convert
   * [SWF 2 SVG](http://riaxe.com/online-swf-to-svg-converter/)
 - Spinners
