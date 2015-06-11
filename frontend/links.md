@@ -1,5 +1,6 @@
 # Сторонние сервисы
-
+- Fonts
+  * [What's the closest Google font to...](http://joelcrawfordsmith.com/closest-font/)
 - Compress
   * [HTML/CSS/JS](http://refresh-sf.com/)
   * [PNG](http://compresspng.com/) (конвертация PNG24 в PNG8+Alpha канал+оптимизация)
