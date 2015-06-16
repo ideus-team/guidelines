@@ -62,6 +62,25 @@ This document borrows ideas from:
       transform: scale(.6);
     }
   }
+
+  @at-root {
+    @keyframes slidein {
+      from {
+        margin-left: 100%;
+        width: 300%;
+      }
+
+      to {
+        margin-left: 0%;
+        width: 100%;
+      }
+    }
+  }
+
+  &:hover {
+    animation: slidein .8s;
+  }
+}
 }
 ```
 ###1. Formatting Rules
