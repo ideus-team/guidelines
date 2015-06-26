@@ -7,7 +7,7 @@ Windows Installer 64-bit, нужен для Grunt.
 
 
 ## 2. Ставим [Ruby](http://rubyinstaller.org/downloads/)
-Ruby _2.1.X_ x64 installer, отмечаем _"Add Ruby executables to your PATH"_, нужен для SASS.
+Ruby _2.1.X_ x64 installer, отмечаем _"Add Ruby executables to your PATH"_, нужен для SASS (grunt-contrib-sass).
 
 
 ## 3. Ставим SASS+Compass,Bourbon&Co
