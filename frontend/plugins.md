@@ -1,5 +1,5 @@
 #Стандартные плагины
-Список css/js-плагинов, которые мы используем для стандартного функционала.
+Список css/js/php-плагинов, которые мы используем для стандартного функционала.
 Необходимость использования других плагинов должно быть _очень_ аргументирована.
 
 Функционал | Плагин
@@ -32,3 +32,4 @@ Flexbox for IE 6-9 | [flexiejs](http://flexiejs.com/)
 HTML5 History (hashchange) | [history.js](https://github.com/browserstate/history.js/blob/master/scripts/bundled/html4%2Bhtml5/jquery.history.js)
 Mobile Detect | [mobile-detect.js](http://hgoebl.github.io/mobile-detect.js/)
 Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+Отправка почты | [php-simple-mail](https://github.com/eoghanobrien/php-simple-mail)
