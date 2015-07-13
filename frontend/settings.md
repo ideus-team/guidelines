@@ -25,18 +25,22 @@ Start → Tortoise Git → Settings:
 
 ## 4. Настройки
 ###Исключения SVN/Git
- * dev/.sass-cache
- * dev/node_modules
- * css/main.css
- * js/scripts.js
+```
+dev/.sass-cache
+dev/node_modules
+css/main.css
+js/scripts.js
+```
 
 ###Исключения Total Commander
- * .sass-cache
- * node_modules
- * Thumbs.db
- * desktop.ini
- * .svn
- * .git
+```
+.svn
+.git
+.sass-cache
+node_modules
+Thumbs.db
+desktop.ini
+```
 
 Причины:
  1. При коммите они будет попадать в SVN/Git, а это не имеет смысла для служебных файлов (мусор).
