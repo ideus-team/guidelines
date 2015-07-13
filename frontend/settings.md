@@ -3,23 +3,22 @@
 ## 1. Install Git
 ### 1.1 Install [msysgit](http://msysgit.github.io/):
  - Next → Next
- - Ajusting your PATH environtment — select „Run from the Windows command prompt“
- - Configuring the line endings conversions — select „Checkout as-is, commit as-is“
+ - __Ajusting your PATH environtment__ — select „Run from the Windows command prompt“
+ - __Configuring the line endings conversions__ — select „Checkout as-is, commit as-is“
  - and Next → Next and so on.
 
 
 ### 1.2 Install [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download)
-x64 version.
+x64 version. Next → Next → Done.  
 Start → Tortoise Git → Settings:
-  - TortoiseGit → Settings → Git → Credential
-  - - Credential helper → Select „wincred“
+  - __TortoiseGit → Settings → Git → Credential → Credential helper__ — Select „wincred - current Windows user“
 
 ## 2. GitHub
 Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
 
 
 ## 3. Ставим Photoshop с плагинами
- - Photoshop CC x64 v15
+ - Photoshop CC 2015 x64
  - CSS Hat 2
  - PNG Hat
 
