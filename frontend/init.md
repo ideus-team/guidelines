@@ -8,8 +8,8 @@ Windows Installer 64-bit (needed for Grunt).
 
 
 ## 2. Install [Ruby](http://rubyinstaller.org/downloads/)
-Ruby _2.1.X_ x64 installer (needed for SASS (grunt-contrib-sass).
-Select _„Add Ruby executables to your PATH“_.
+Ruby __2.2.X__ x64 installer (needed for SASS (grunt-contrib-sass).  
+ - Select __„Add Ruby executables to your PATH“__.
 
 
 ## 3. Install SASS+Bourbon
@@ -18,6 +18,10 @@ gem install sass
 gem install bourbon
 gem install neat
 gem install bitters
+```
+3.1 Install Compass for old projects (only if you work at iDeus!):
+```
+gem install compass
 ```
 If you get SSL error — foolow [this steps](https://gist.github.com/luislavena/f064211759ee0f806c88#manual-solution-to-ssl-issue).
 
