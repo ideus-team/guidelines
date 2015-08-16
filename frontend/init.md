@@ -31,11 +31,11 @@ If you get SSL error — foolow [this steps](https://gist.github.com/luislavena/
 npm install grunt-cli -g
 ```
 
-## 6. Get Framework
+## 5. Get Framework
 Git Clone:
  - URL: https://github.com/ideus-team/html-framework.git
 
 
-## 7. Install Framework
+## 6. Install Framework
 Once run `dev/install.ps1`
 Start Grunt with `dev/start.ps1`
