@@ -11,8 +11,7 @@
 ##Frontend
 
 ###Настройки
-* [Установка окружения под Windows](https://github.com/ideus-team/guidelines/blob/master/frontend/init.md)
-* [Настройки окружения](https://github.com/ideus-team/guidelines/blob/master/frontend/settings.md)
+* [Установка окружения под Windows](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-windows.md)
 
 ###Инструменты
 * [HTML framework](https://github.com/ideus-team/html-framework)
