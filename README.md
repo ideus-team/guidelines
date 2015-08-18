@@ -1,5 +1,7 @@
 #Guidelines
 
+##[iDeus Handbook](https://github.com/ideus-team/guidelines/blob/master/handbook/)
+
 ##Management
 * [Закрытие задач](https://github.com/ideus-team/guidelines/blob/master/management/closetasks.md)
 
