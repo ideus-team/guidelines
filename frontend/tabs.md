@@ -8,6 +8,7 @@
  - [Github CSS](https://github.com/styleguide/css)
  - [Github JS](https://github.com/styleguide/javascript)
  - [Google HTML Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+ - [Sass Guidelines](http://sass-guidelin.es/#syntax--formatting)
  - [SMACSS](http://smacss.com/book/formatting)
  - [Yandex JavaScript CodeStyle](https://github.com/yandex/codestyle/blob/master/javascript.ru.md)
 
