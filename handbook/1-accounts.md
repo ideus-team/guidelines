@@ -7,7 +7,8 @@
 3. Фотка с лицом крупным планом
 
 ##Что вам дадут
-Менеджер [заведет вам](https://github.com/ideus-team/guidelines/blob/master/handbook/admin/1-accounts.md)
+Менеджер [заведет вам](https://github.com/ideus-team/guidelines/blob/master/handbook/admin/1-accounts.md):
+
 1. Email в `@ideus.biz` и перенаправит его на ваш GMail
 2. Аккаунт в ActiveCollab (и добавит в нужные проекты)
 3. Аккаунты в SVN/Git (и добавит в нужные группы)
