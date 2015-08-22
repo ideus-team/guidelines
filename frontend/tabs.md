@@ -1,5 +1,5 @@
 #Почему отступы в коде должны быть "space, no tabs"
-
+__Consistent code viewing on any platform: web, desktop or print.___  
 Все эти компании и проекты строго запрещают использование табов и требуют использование пробелов.
 
 ##Frontend:
@@ -25,6 +25,8 @@
  - [Symfony](http://symfony.com/doc/2.0/contributing/code/standards.html)
  - [ZEND](http://framework.zend.com/manual/1.12/en/coding-standard.php-file-formatting.html)
 
+![4 tabs](http://pixelgraphics.us/share_d2tx54/tabs_ex.png)
+![2 tabs](http://pixelgraphics.us/share_d2tx54/tab_2_ex.png)
 
 ###Аргументация из кодстайлов:
 >RSR-2: Using only spaces, and not mixing spaces with tabs, helps to avoid problems with diffs, patches, history, and annotations. The use of spaces also makes it easy to insert fine-grained sub-indentation for inter-line alignment.
