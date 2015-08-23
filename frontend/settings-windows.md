@@ -9,21 +9,23 @@
 
 
 ### 1.2 Install [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download)
-x64 version. Next → Next → Done.  
+x64 version. Next → Next → Done.
 Start → Tortoise Git → Settings:
   - __TortoiseGit → Settings → Git → Credential → Credential helper__ — Select „wincred - current Windows user“
 
 ## 2. GitHub
 Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
 
+## 3. Устанавливаем [софт для старых проектов](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-old-projects.md):
 
-## 3. Ставим Photoshop с плагинами
+## 4. Устанавливаем [HTML-framework](https://github.com/ideus-team/html-framework)
+
+## 5. Ставим Photoshop с плагинами
  - Photoshop CC 2015 x64
  - CSS Hat 2
  - PNG Hat
 
-
-## 4. Настройки
+## 6. Настройки
 ###Исключения SVN/Git
 ```
 dev/.sass-cache
