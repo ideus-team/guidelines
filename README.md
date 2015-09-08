@@ -3,7 +3,7 @@
 ##[iDeus Handbook](https://github.com/ideus-team/guidelines/blob/master/handbook/)
 
 ##Management
-* [Закрытие задач](https://github.com/ideus-team/guidelines/blob/master/management/closetasks.md)
+* [Порядок работы с задачами](https://github.com/ideus-team/guidelines/blob/master/management/tasks.md)
 
 ##Design
 
