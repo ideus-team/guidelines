@@ -18,6 +18,9 @@
 После этого вы получите письмо с доступами на свой рабочий email.
 
 ##Что нужно сделать после
-1. Добавить свой новый рабочий email в GMail, чтоб вы могли писать письма с обратным адресом `@ideus.biz`
-2. Отредактировать никнейк в Slack чтоб между именем и фамилией была точка, загрузить фотку
-3. Прочитать Вводные гайдлайны [«Как работать над задачами»](https://github.com/ideus-team/guidelines/blob/master/handbook/2-how-to-work.md)
+1. Добавить свой новый рабочий email в GMail, чтоб вы могли писать письма с обратным адресом `@ideus.biz`:
+- Settings→Accounts and Import→Send mail as
+2. Настроить пересылку почты с @ideus.biz на GMail:
+- Settings→Accounts and Import→Check mail from other accounts (using POP3)
+3. Отредактировать никнейк в Slack чтоб между именем и фамилией была точка, загрузить фотку
+4. Прочитать Вводные гайдлайны [«Как работать над задачами»](https://github.com/ideus-team/guidelines/blob/master/handbook/2-how-to-work.md)
