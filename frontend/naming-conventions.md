@@ -3,12 +3,13 @@
 
 ## Структура папок
 ```
-/css/
-/img/
-/js/
+/assets/css/
+/assets/img/
+/assets/js/
 /dev/
-  /dev/sass/
-  /dev/js/
+  /dev/src/img/
+  /dev/src/js/
+  /dev/src/sass/
 ```
 
 ## Страницы
@@ -17,15 +18,15 @@
 
 ## Тестовые файлы
 Тестовые файлы должны иметь префикс `test-номерТикета-`.
-Например `test-2567-script.js`
+Например `test-2567-script.js`.
 
 ## CSS
-`/css/*`
+`/dev/src/sass/*`
 SCSS для l-блоков выносится в отдельные `_blockName.scss`-файлы в папке `dev/sass/blocks`.
 В `main.scss` они подключаются через `@import 'blocks/blockName';`
 
 ## Картинки
-`/img/*`
+`/dev/src/img/*`
 Картинки для l-блоков выносятся в отдельные папки вида `/img/blockName`.
 Картинки называются согласно имени блока. Необходимо добавлять суффиксы: `-bg`, `-btn` и т.д., а для временных заглушек префикс `temp-`.
  * bg    : background т.е. для фоновых изображений и фонов
@@ -36,10 +37,10 @@ SCSS для l-блоков выносится в отдельные `_blockName.
  * logo  : для логотипов
  * ico   : icons — для иконок
  * text  : для текстовых надписей, сохранённых как картинки
- Например: `socialLinks-ico.png`,`temp-someBlockName.png`
+ Например: `socialLinks-ico.png`,`temp-someBlockName.png`.
 
 ## JS
-`/js/*`
+`/dev/src/js/*`
 JS для отдельных js-блоков выносится в отдельные файлы.
 
 ## Стандартные имена классов
