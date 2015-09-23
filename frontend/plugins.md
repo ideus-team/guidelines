@@ -34,4 +34,5 @@ HTML5 History (hashchange) | [history.js](https://github.com/browserstate/histor
 Mobile Detect | [mobile-detect.js](http://hgoebl.github.io/mobile-detect.js/)
 Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alvarotrigo/fullPage.js) → [js-fullpage](https://github.com/ideus-interactive/bem-snippets/tree/master/js-fullpage)
 Отправка почты | [php-simple-mail](https://github.com/eoghanobrien/php-simple-mail)
-An element query polyfill | [ElementQuery](https://github.com/tysonmatanich/elementQuery)
+Media query for element polyfill | [ElementQuery](https://github.com/tysonmatanich/elementQuery)
+position:sticky | [sticky] polyfill(https://github.com/matthewp/position--sticky-)
