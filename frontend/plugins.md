@@ -5,6 +5,7 @@
 Функционал | Плагин
 --- | ---
 DOM helpers+special events | [jQuery++](http://jquerypp.com/)
+Аккордеон | [jquery-accordion](https://github.com/vctrfrnndz/jquery-accordion)
 Анимации CSS3 | [Animate.css](https://github.com/daneden/animate.css)<br>[magic](https://github.com/miniMAC/magic)
 Анимации CSS3 in viewport only + JS actions| [css3-animate-it.js](http://jackonthe.net/css3animateit/)
 Анимация из картинок | [CrossSlide](https://github.com/tobia/CrossSlide)
