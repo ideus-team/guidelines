@@ -1,4 +1,9 @@
 # Сторонние сервисы
+- Formatting
+  * [HTML](http://www.freeformatter.com/html-formatter.html)
+  * [CSS](http://csscomb.com/online)
+- Tidy
+  * [HTML](https://infohound.net/tidy/) ([настройки](https://pbs.twimg.com/media/CQi9HwCWIAAuVlc.png))
 - Fonts
   * [What's the closest Google font to...](http://joelcrawfordsmith.com/closest-font/)
 - Compress
@@ -8,9 +13,6 @@
 - Performance
   * [GTmetrix](http://gtmetrix.com/)
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- Formatting
-  * [HTML](http://www.freeformatter.com/html-formatter.html)
-  * [CSS](http://csscomb.com/online)
 - Convert
   * [SWF 2 SVG](http://riaxe.com/online-swf-to-svg-converter/)
 - Spinners
