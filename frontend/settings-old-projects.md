@@ -1,7 +1,7 @@
 # Soft for old iDeus projects
 
 ## 1. Install [Ruby](http://rubyinstaller.org/downloads/)
-Ruby __2.2.X__ x64 installer (needed for SASS (grunt-contrib-sass).  
+Ruby __2.2.X__ x64 installer (needed for SASS (grunt-contrib-sass).
  - Select __„Add Ruby executables to your PATH“__.
 
 
