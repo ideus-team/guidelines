@@ -24,6 +24,7 @@ Start → Tortoise Git → Settings:
  - Photoshop CC 2015 x64
  - CSS Hat 2
  - PNG Hat
+ - [List Fonts](https://github.com/iamdarrenhall/list-fonts)
 
 ## 6. Настройки
 ###Исключения SVN/Git
