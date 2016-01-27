@@ -38,3 +38,4 @@ Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alv
 Отправка почты | [php-simple-mail](https://github.com/eoghanobrien/php-simple-mail)
 Media query for element polyfill | [ElementQuery](https://github.com/tysonmatanich/elementQuery)
 position:sticky | [sticky polyfill](https://github.com/matthewp/position--sticky-)
+Date & time picker | [DateTimePicker](https://github.com/CuriousSolutions/DateTimePicker)
