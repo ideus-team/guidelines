@@ -39,3 +39,4 @@ Single page JS (hashchange & other funcs) | [fullPage.js](https://github.com/alv
 Media query for element polyfill | [ElementQuery](https://github.com/tysonmatanich/elementQuery)
 position:sticky | [sticky polyfill](https://github.com/matthewp/position--sticky-)
 Date & time picker | [DateTimePicker](https://github.com/CuriousSolutions/DateTimePicker)
+Cлайд-панель навигации | [bigSlide.js](https://github.com/ascott1/bigSlide.js)
