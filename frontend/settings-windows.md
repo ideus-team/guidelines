@@ -3,7 +3,7 @@
 ## 1. Install Git
 ### 1.1 Install [Git for Windows](https://git-scm.com/downloads/):
  - Next → Next
- - __Ajusting your PATH environtment__ — select „Run from the Windows command prompt“
+ - __Ajusting your PATH environtment__ — select „Use Git from the Windows command prompt“
  - __Configuring the line endings conversions__ — select „Checkout as-is, commit as-is“
  - and Next → Next and so on.
 
