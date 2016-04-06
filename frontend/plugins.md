@@ -40,3 +40,4 @@ Media query for element polyfill | [ElementQuery](https://github.com/tysonmatani
 position:sticky | [sticky polyfill](https://github.com/matthewp/position--sticky-)
 Date & time picker | [DateTimePicker](https://github.com/CuriousSolutions/DateTimePicker)
 Cлайд-панель навигации | [bigSlide.js](https://github.com/ascott1/bigSlide.js)
+Социальные кнопки | [Social Likes Next](https://github.com/sapegin/social-likes-next)
