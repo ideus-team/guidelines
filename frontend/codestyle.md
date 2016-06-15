@@ -23,8 +23,7 @@ This document borrows ideas from:
 4. New line for everything
 5. Omit the protocol from embedded resources.
 
-###2. Naming Conversions
-Мы используем [Соглашение об именовании](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md) блоков и файлов.
+###2. [Naming Conversions](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md)
 
 
 ##CSS
@@ -47,15 +46,12 @@ This document borrows ideas from:
     url('../img/blocks/someBlock/someBlock-bg.png');
   background-size: cover;
 
-  %i-someBlock-mod_val {
+  @mixin i-someBlock {
     /* Some abstract block */
-  }
-  %i-someBlock__someElement {
-    /* Some abstract element */
   }
 
   &__someElement {
-    @extend %i-someBlock__someElement;
+    @include i-someBlock;
     transform: scale(.8);
 
     @media screen and (max-width: 800px) {
@@ -88,13 +84,13 @@ This document borrows ideas from:
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
-5. Переменные нужно определять в пределах каждого блока (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
-6. Для значений, что зависят от других, необходимо использовать формулы и/или переменные.
-7. Максимально используются возможности Sass, особенно в связке с BEM (`&__el`, `@extend %abstractBlock`).
-8. Используется Автопрефиксер, поэтому префиксы у CSS писать не нужно.
+5. Variables should defined withing each block (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
+6. Use calc/variables for values that are dependent on other values.
+7. Use Sass capabilities: `&__el`, `@include i-abstractBlock`.
+8. We use Autoprefixer, so you SHOULDN'T write css prefixes.
 
 ###2. Naming Conversions
-Мы используем [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
+We use [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
 
 ##JS
 ```js
