@@ -9,6 +9,7 @@ __Consistent code viewing on any platform: web, desktop or print.___
  - [Github JS](https://github.com/styleguide/javascript)
  - [Google HTML Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
  - [Sass Guidelines](http://sass-guidelin.es/#syntax--formatting)
+ - [Scally CSS framework](https://github.com/chris-pearce/css-guidelines#text-editor-configuration)
  - [SMACSS](http://smacss.com/book/formatting)
  - [Yandex JavaScript CodeStyle](https://github.com/yandex/codestyle/blob/master/javascript.ru.md)
 
