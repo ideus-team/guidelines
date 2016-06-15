@@ -6,12 +6,12 @@ __Consistent code viewing on any platform: web, desktop or print.___
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#whitespace)
  - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/#syntax-and-formatting)
  - [Github](http://primercss.io/guidelines/)
- - [Github JS](https://github.com/styleguide/javascript)
- - [Google HTML Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+ - [Github HTML/CSS](http://primercss.io/guidelines/#spacing)
+ - [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.xml#Indentation)
  - [Sass Guidelines](http://sass-guidelin.es/#syntax--formatting)
  - [Scally CSS framework](https://github.com/chris-pearce/css-guidelines#text-editor-configuration)
  - [SMACSS](http://smacss.com/book/formatting)
- - [Yandex JavaScript CodeStyle](https://github.com/yandex/codestyle/blob/master/javascript.ru.md)
+ - [Yandex JavaScript CodeStyle](https://github.com/ymaps/codestyle/blob/master/javascript.md#general)
 
 ##Backend:
  - [Drupal](http://drupal.org/coding-standards)
