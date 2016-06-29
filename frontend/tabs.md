@@ -4,6 +4,7 @@ __Consistent code viewing on any platform: web, desktop or print.___
 
 ##Frontend:
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#whitespace)
+ - Bootstrap [HTML](http://codeguide.co/#html-syntax)/[CSS](http://codeguide.co/#css-syntax)
  - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/#syntax-and-formatting)
  - [Github](http://primercss.io/guidelines/)
  - [Github HTML/CSS](http://primercss.io/guidelines/#spacing)
