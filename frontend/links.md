@@ -11,6 +11,7 @@
   * [PNG](http://compresspng.com/) (конвертация PNG24 в PNG8+Alpha канал+оптимизация)
   * [JPG](http://compressjpeg.com/)
   * [SVG](https://jakearchibald.github.io/svgomg/)
+  * [Base64](http://b64.io/)
 - Performance
   * [GTmetrix](http://gtmetrix.com/)
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
