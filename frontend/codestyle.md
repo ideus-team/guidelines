@@ -77,7 +77,6 @@ This document borrows ideas from:
     animation: slidein .8s;
   }
 }
-}
 ```
 ###1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
