@@ -29,6 +29,8 @@
 
 ###Чеклисты
 * [Чеклист при получении проекта\задачи](https://github.com/ideus-team/guidelines/blob/master/frontend/getting-project.md)
+* [Чеклист работы с формами отправки email](https://github.com/ideus-team/guidelines/blob/master/frontend/form-work.md)
 * [Чеклист сдачи верстки в чистом виде](https://github.com/ideus-team/guidelines/blob/master/frontend/pure-layout.md)
+* [Чеклист сдачи проекта в продакшн](https://github.com/ideus-team/guidelines/blob/master/frontend/prod-layout.md)
 * [Чек-лист оптимизации скорости загрузки](https://github.com/delka/WebPerformanceChecklist)
 * [Чек-лист доступности](http://webstandardsdays.ru/2014/12/06/pres/web-a11y/?full#33)
