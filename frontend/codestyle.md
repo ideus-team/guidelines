@@ -7,7 +7,7 @@ This document borrows ideas from:
 Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`".
 Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
 
-##HTML
+## HTML
 ```html
 <div class="b-someBlock b-text -style_notice -state_modal">
   <p>
@@ -16,17 +16,17 @@ This document borrows ideas from:
   </p>
 </div>
 ```
-###1. Formatting Rules
+### 1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. lowercase
 3. Double quotes
 4. New line for everything
 5. Omit the protocol from embedded resources.
 
-###2. [Naming Conversions](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md)
+### 2. [Naming Conversions](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md)
 
 
-##CSS
+## CSS
 ```scss
 /**
 * @section Some Block
@@ -78,7 +78,7 @@ This document borrows ideas from:
   }
 }
 ```
-###1. Formatting Rules
+### 1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
 3. Single quotes
@@ -88,10 +88,10 @@ This document borrows ideas from:
 7. Use Sass capabilities: `&__el`, `@include i-abstractBlock`.
 8. We use Autoprefixer, so you SHOULDN'T write css prefixes.
 
-###2. Naming Conversions
+### 2. Naming Conversions
 We use [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
 
-##JS
+## JS
 ```js
 /**
  * This is a description of the someFunction function
@@ -102,12 +102,12 @@ function someFunction() {
   $('.js-someBlock').hide();
 }
 ```
-###1. Formatting Rules
+### 1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. [JSDoc](http://usejsdoc.org/) for comment blocks.
 3. Always use only `js-` blocks in JS! JS namespace has nothing at all to do with css.
 
-###2. Naming Conversions
+### 2. Naming Conversions
 We use camelCase.
 
 P.S.
