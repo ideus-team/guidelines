@@ -105,7 +105,8 @@ function someFunction() {
 ### 1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
 2. [JSDoc](http://usejsdoc.org/) for comment blocks.
-3. Always use only `js-` blocks in JS! JS namespace has nothing at all to do with css.
+3. Single quotes
+4. Always use only `js-` blocks in JS! JS namespace has nothing at all to do with css.
 
 ### 2. Naming Conversions
 We use camelCase.
