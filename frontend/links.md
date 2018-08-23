@@ -12,6 +12,7 @@
   * [JPG](http://compressjpeg.com/)
   * [SVG](https://jakearchibald.github.io/svgomg/)
   * [Base64](http://b64.io/)
+  * [SVG url-encode in background](https://yoksel.github.io/url-encoder/)
 - Performance
   * [GTmetrix](http://gtmetrix.com/)
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
