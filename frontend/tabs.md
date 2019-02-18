@@ -1,5 +1,5 @@
 # Почему отступы в коде должны быть "space, no tabs"
-__Consistent code viewing on any platform: web, desktop or print.___  
+__Consistent code viewing on any platform: web, desktop or print.__
 Все эти компании и проекты строго запрещают использование табов и требуют использование пробелов.
 
 ## Frontend:
