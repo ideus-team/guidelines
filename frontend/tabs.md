@@ -4,14 +4,15 @@ __Consistent code viewing on any platform: web, desktop or print.___
 
 ## Frontend:
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#whitespace)
- - Bootstrap [HTML](http://codeguide.co/#html-syntax)/[CSS](http://codeguide.co/#css-syntax)
+ - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#formatting)
+ - Bootstrap [HTML](http://codeguide.co/#html-syntax) / [CSS](http://codeguide.co/#css-syntax)
  - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/#syntax-and-formatting)
- - [Github](http://primercss.io/guidelines/)
- - [Github HTML/CSS](http://primercss.io/guidelines/#spacing)
- - [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.xml#Indentation)
+ - Github [HTML](https://styleguide.github.com/primer/principles/HTML/#general-formatting) / [CSS](https://styleguide.github.com/primer/principles/SCSS/#spacing)
+ - [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html#Indentation)
  - [Sass Guidelines](http://sass-guidelin.es/#syntax--formatting)
  - [Scally CSS framework](https://github.com/chris-pearce/css-guidelines#text-editor-configuration)
  - [SMACSS](http://smacss.com/book/formatting)
+ - [JavaScript Standard Style](https://standardjs.com/)
  - [Yandex JavaScript CodeStyle](https://github.com/ymaps/codestyle/blob/master/javascript.md#general)
 
 ## Backend:
@@ -27,8 +28,8 @@ __Consistent code viewing on any platform: web, desktop or print.___
  - [Symfony](http://symfony.com/doc/2.0/contributing/code/standards.html)
  - [ZEND](http://framework.zend.com/manual/1.12/en/coding-standard.php-file-formatting.html)
 
-![4 tabs](http://pixelgraphics.us/share_d2tx54/tabs_ex.png)
-![2 tabs](http://pixelgraphics.us/share_d2tx54/tab_2_ex.png)
+![4 tabs](https://user-images.githubusercontent.com/1684521/52964256-888e6100-33aa-11e9-90cf-3b9a6c39997b.png)
+![2 tabs](https://user-images.githubusercontent.com/1684521/52964301-a360d580-33aa-11e9-8644-3e7cf72e28fd.png)
 
 ### Аргументация из кодстайлов:
 >RSR-2: Using only spaces, and not mixing spaces with tabs, helps to avoid problems with diffs, patches, history, and annotations. The use of spaces also makes it easy to insert fine-grained sub-indentation for inter-line alignment.
