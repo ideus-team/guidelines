@@ -80,7 +80,7 @@ This document borrows ideas from:
 ```
 ### 1. Formatting Rules
 1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
-2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](http://csscomb.com) with  [zen-coding](https://github.com/csscomb/csscomb.js/blob/master/config/zen.json) declaration order
+2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](https://github.com/csscomb) with [zen-coding](https://github.com/ideus-team/guidelines/blob/master/frontend/files/.csscomb.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
 5. Variables should defined withing each block (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
