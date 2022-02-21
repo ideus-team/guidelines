@@ -1,10 +1,5 @@
 # Guidelines
 
-## [iDeus Handbook](https://github.com/ideus-team/guidelines/blob/master/handbook/)
-
-## Management
-* [Порядок работы с задачами](https://github.com/ideus-team/guidelines/blob/master/management/tasks.md)
-
 ## Design
 
 ### Руководства
