@@ -29,8 +29,8 @@ This document borrows ideas from:
 ## CSS
 ```scss
 /**
-* @section Some Block
-*/
+ * Some Block
+ */
 .b-someBlock {
   $someBlock-color: #f00;
 
@@ -97,7 +97,7 @@ We use [BEM CSS](https://github.com/ideus-team/guidelines/blob/master/frontend/b
  * This is a description of the someFunction function
  * @function someFunction
  * @requires momentjs {@link https://github.com/moment/moment/}
-*/
+ */
 function someFunction() {
   $('.js-someBlock').hide();
 }
