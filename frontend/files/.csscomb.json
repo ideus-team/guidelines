@@ -59,6 +59,7 @@
     "grid-area",
     "grid-gap",
     "grid-column",
+    "grid-row",
     "order",
     "box-sizing",
     "margin",
