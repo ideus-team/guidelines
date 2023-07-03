@@ -139,6 +139,7 @@
     "background-origin",
     "background-size",
     "background-repeat",
+    "background-blend-mode",
     "object-fit",
     "object-position",
     "box-decoration-break",
