@@ -3,15 +3,15 @@
 ## 1. Install Git
 ### 1.1 Install [Git for Windows](https://git-scm.com/downloads/):
  - Next → Next
- - __Ajusting your PATH environtment__ — select „Use Git from the Windows command prompt“
- - __Configuring the line endings conversions__ — select „Checkout as-is, commit as-is“
+ - **Ajusting your PATH environtment** — select "Use Git from the Windows command prompt"
+ - **Configuring the line endings conversions** — select "Checkout as-is, commit as-is"
  - and Next → Next and so on.
 
 
 ### 1.2 Install [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download)
 x64 version. Next → Next → Done.
 Start → Tortoise Git → Settings:
- - __TortoiseGit → Settings → Git → Credential → Credential helper__ — Select „wincred - current Windows user“
+ - **Git** — Set "Name" & Email" for **Global** config source
 
 ## 2. GitHub
 Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
