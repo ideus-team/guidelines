@@ -17,7 +17,7 @@ This document borrows ideas from:
 </div>
 ```
 ### 1. Formatting Rules
-1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
+1. Use **real tabs, not spaces**
 2. lowercase
 3. Double quotes
 4. New line for everything
@@ -79,7 +79,7 @@ This document borrows ideas from:
 }
 ```
 ### 1. Formatting Rules
-1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
+1. Use **real tabs, not spaces**
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](https://github.com/csscomb) with [zen-coding](https://github.com/ideus-team/guidelines/blob/master/frontend/files/.csscomb.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
@@ -103,7 +103,7 @@ function someFunction() {
 }
 ```
 ### 1. Formatting Rules
-1. [NO TABS, 2 space indent](https://github.com/ideus-team/guidelines/blob/master/frontend/tabs.md)
+1. Use **real tabs, not spaces**
 2. [JSDoc](http://usejsdoc.org/) for comment blocks.
 3. Single quotes
 4. Always use only `js-` blocks in JS! JS namespace has nothing at all to do with css.
