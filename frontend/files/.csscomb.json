@@ -197,6 +197,7 @@
 		"-ms-interpolation-mode",
 		"-ms-filter",
 		"filter",
+		"mix-blend-mode",
 		"resize",
 		"cursor",
 		"nav-index",

@@ -14,19 +14,13 @@ Start → Tortoise Git → Settings:
  - **Git** — Set "Name" & Email" for **Global** config source
 
 ## 2. GitHub
-Регистрируемся на [GitHub](https://github.com/) если не зарегены. Стучимся в https://github.com/ideus-team
+Реєструємося на [GitHub](https://github.com/), якщо ще не зареєстровані. Стукаємо до https://github.com/ideus-team
 
-## 3. Устанавливаем софт из [HTML-framework](https://github.com/ideus-team/html-framework)
-Шаги 1-5
+## 3. Встановлюємо софт з [HTML-framework](https://github.com/ideus-team/html-framework)
+Кроки 1-5
 
-## 4. Ставим Photoshop с плагинами
- - Photoshop CC 2015 x64
- - CSS Hat 2
- - PNG Hat
- - [List Fonts](https://github.com/iamdarrenhall/list-fonts)
-
-## 5. Настройки
-### Исключения SVN/Git
+## 4. Налаштування
+### Винятки SVN/Git
 ```
 dev/.sass-cache
 dev/node_modules
@@ -34,7 +28,7 @@ css/main.css
 js/scripts.js
 ```
 
-### Исключения Total Commander
+### Винятки Total Commander / WinSCP / etc.
 ```
 .svn
 .git
@@ -44,8 +38,8 @@ Thumbs.db
 desktop.ini
 ```
 
-Причины:
- 1. При коммите они будет попадать в SVN/Git, а это не имеет смысла для служебных файлов (мусор).
- 2. Для генерируемых файл хранение в SVN/Git создаёт конфликты merge.
- 3. При синхронизации с FTP они будет попадать на сайт, а это не имеет смысла (мусор).
- 4. Служебные файлы SVN и GIT при появлении на FTP являются дырой в безопасности т.к. они содержат исходники сайта.
+Причини:
+  1. При комміті вони потраплятимуть у SVN/Git, але це немає сенсу для службових файлів (сміття).
+  2. Для генерованих файл зберігання SVN/Git створює конфлікти merge.
+  3. При синхронізації з FTP вони потраплятимуть на сайт, а це не має сенсу (сміття).
+  4. Службові файли SVN і GIT з появою на FTP є дірою у безпеці бо вони містять вихідники сайту.

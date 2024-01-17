@@ -4,8 +4,8 @@ This document borrows ideas from:
  * [SMACSS](http://smacss.com/book/formatting)
  * [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 
-Мы намеренно сокращаем правила для удобочитаемости и не пишем в стиле КО a-la "Separate structure from presentation from behavior" и "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`".
-Также мы не описываем очевидные правила, которые могут быть проверены автоматически во время сборки, типа "Avoid specifying units for zero values", и правила форматирования (типа "Include one space before the opening brace of declaration blocks…") что понятны из примера кода.
+Ми навмисно скорочуємо правила для зручності читання і не пишемо в стилі КО a-la "Separate structure from presentation from behavior" та "Items in list form should always be in `<ul>`, `<ol>`, or `<dl>`".
+Також ми не описуємо очевидні правила, які можуть бути перевірені автоматично під час збирання, типу "Avoid specifying units for zero values", і правила форматування (типу "Include one space before the opening brace of declaration blocks…") що зрозумілі з прикладу коду.
 
 ## HTML
 ```html
@@ -83,7 +83,7 @@ This document borrows ideas from:
 2. [Multiple lines](http://smacss.com/book/formatting), groped by [CSSComb](https://github.com/csscomb) with [zen-coding](https://github.com/ideus-team/guidelines/blob/master/frontend/files/.csscomb.json) declaration order
 3. Single quotes
 4. [CSSDoc](http://habrahabr.ru/post/87406/) for comment blocks.
-5. Variables should defined withing each block (иначе когда копируешь блок в другой проект он остается с неопределёнными переменными).
+5. Variables should defined withing each block (інакше коли копіюєш блок до іншого проекту він залишається з невизначеними змінними).
 6. Use calc/variables for values that are dependent on other values.
 7. Use Sass capabilities: `&__el`, `@include i-abstractBlock`.
 8. We use Autoprefixer, so you SHOULDN'T write css prefixes.

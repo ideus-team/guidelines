@@ -2,31 +2,30 @@
 
 ## Design
 
-### Руководства
+### Інформація
 * [Naming conventions](https://github.com/ideus-team/guidelines/blob/master/design/naming-conventions.md)
 
-## Frontend
+## Frontend / WordPress
 
-### Настройки
-* [Установка окружения под Windows](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-windows.md)
+### Налаштування
+* [Встановлення оточення під Windows](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-windows.md)
 
-### Инструменты
+### Інструменти
 * [HTML framework](https://github.com/ideus-team/html-framework)
-* [Библиотека блоков](https://github.com/ideus-team/bem-snippets) (не поддерживается)
-* [Стандартные плагины](https://github.com/ideus-team/guidelines/blob/master/frontend/plugins.md)
-* [Заготовки и лайфхаки для Wordpress](https://github.com/ideus-team/wordpress)
-* [Сторонние сервисы](https://github.com/ideus-team/guidelines/blob/master/frontend/links.md)
+* [Бібліотека блоків](https://github.com/ideus-team/bem-snippets) (не підтримується)
+* [Стандартні плагіни](https://github.com/ideus-team/guidelines/blob/master/frontend/plugins.md)
+* [Інформація щодо роботи з WordPress](https://github.com/ideus-team/wordpress)
+* [Сторонні сервіси](https://github.com/ideus-team/guidelines/blob/master/frontend/links.md)
 
-### Руководства
+### Інформація
 * [Codestyle](https://github.com/ideus-team/guidelines/blob/master/frontend/codestyle.md)
-* [BEM-диалект](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
+* [BEM-діалект](https://github.com/ideus-team/guidelines/blob/master/frontend/bem.md)
 * [Naming conventions](https://github.com/ideus-team/guidelines/blob/master/frontend/naming-conventions.md)
 * [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
 
-### Чеклисты
-* [Чеклист при получении проекта\задачи](https://github.com/ideus-team/guidelines/blob/master/frontend/getting-project.md)
-* [Чеклист работы с формами отправки email](https://github.com/ideus-team/guidelines/blob/master/frontend/form-work.md)
-* [Чеклист сдачи верстки в чистом виде](https://github.com/ideus-team/guidelines/blob/master/frontend/pure-layout.md)
-* [Чеклист сдачи проекта в продакшн](https://github.com/ideus-team/guidelines/blob/master/frontend/prod-layout.md)
-* [Чек-лист оптимизации скорости загрузки](https://github.com/delka/WebPerformanceChecklist)
-* [Чек-лист доступности](http://webstandardsdays.ru/2014/12/06/pres/web-a11y/?full#33)
+### Чеклісти
+* [Чекліст при отриманні проекту/завдання](https://github.com/ideus-team/guidelines/blob/master/frontend/getting-project.md)
+* [Чекліст роботи з формами відправлення email](https://github.com/ideus-team/guidelines/blob/master/frontend/form-work.md)
+* [Чекліст здачі верстки у чистому вигляді](https://github.com/ideus-team/guidelines/blob/master/frontend/pure-layout.md)
+* [Чекліст здачі проекту у продакшн](https://github.com/ideus-team/guidelines/blob/master/frontend/prod-layout.md)
+* [Чекліст оптимізації швидкості завантаження](https://github.com/delka/WebPerformanceChecklist)
