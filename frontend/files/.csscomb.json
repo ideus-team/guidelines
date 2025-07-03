@@ -225,6 +225,8 @@
 		"animation-delay",
 		"animation-iteration-count",
 		"animation-direction",
+		"inset",
+		"will-change",
 		"pointer-events",
 		"user-select",
 		"unicode-bidi",
